@@ -19,13 +19,15 @@ In order to get the best out of the template:
 
 ## How to install dependencies
 
-Declare any dependencies in `requirements.txt` for `pip` installation.
-
-To install them, run:
+It is highly recommended to use poetry to manage package conflicts. For that open the `requirements.txt` file, change to `capacitacao` directory and run the command:
 
 ```
-pip install -r requirements.txt
+poetry add <NAME_OF_A_PACKAGE_IN_REQUIRENTS.TXT_FILE>
 ```
+
+Repeat the above command for all packages in the `requirements.txt` file. 
+
+DON'T use `pip-install`. That can create package conflicts.
 
 ## How to run your Kedro pipeline
 
