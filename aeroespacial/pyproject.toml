@@ -3,11 +3,12 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-requires-python = ">=3.9"
+requires-python = ">=3.9,<4.0"
 name = "aeroespacial"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
+    "python >=3.12,<4.0", 
     "ipython>=8.10",
     "jupyterlab>=3.0",
     "notebook",
@@ -25,6 +26,7 @@ dependencies = [
 
 [project.optional-dependencies]
 docs = [
+	
     "docutils<0.21",
     "sphinx>=5.3,<7.3",
     "sphinx_rtd_theme==2.0.0",
