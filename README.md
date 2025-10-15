@@ -4,6 +4,8 @@ Este repositório contém o projeto de aprendizado de máquina, que utiliza o *f
 
 **Importante:** Este arquivo README fornece as instruções para clonar e configurar o ambiente de desenvolvimento usando **Poetry**. Para instruções detalhadas sobre como interagir com o projeto Kedro (comandos de *pipeline*, estrutura de pastas, etc.), consulte o `README.md` principal localizado na subpasta do Kedro.
 
+**Observação:** Para a capacitação básica em IA do instituto HBR, não é necessário utilizar nenhum comando do Kedro. Basta seguir as etapas abaixo para que os notebooks rodem corretamente.
+
 ## 🛠️ Configuração e Instalação
 
 O projeto utiliza **Poetry** para gerenciamento de dependências e ambientes virtuais, garantindo um controle mais rigoroso de conflitos de pacotes fora do *template* padrão do Kedro.
