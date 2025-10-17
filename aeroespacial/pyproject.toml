@@ -1,6 +1,7 @@
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
+ 
 
 [project]
 requires-python = ">=3.9,<4.0"
@@ -8,7 +9,6 @@ name = "aeroespacial"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
-    "python >=3.12,<4.0", 
     "ipython>=8.10",
     "jupyterlab>=3.0",
     "notebook",
