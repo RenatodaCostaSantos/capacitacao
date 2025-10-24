@@ -15,6 +15,7 @@ from typing import Union, List, Any, Tuple, Dict
 
 
 
+
 def criar_modelo_regularizado(neuronios_entrada, neurons=45, learning_rate=0.001, dropout_rate=0.3):
     """Cria e compila um modelo de Rede Neural com Dropout."""
     tf.random.set_seed(42)
@@ -279,10 +280,6 @@ def plot_and_save_force(
         plt.close()
 
 
-# ----------------------------------------------------------------------
-# Force plot
-# ----------------------------------------------------------------------
-
 def generate_shap_force_plot(
     model: Any,
     explainer_expected_value: Union[float, np.ndarray],
@@ -325,3 +322,8 @@ def generate_shap_force_plot(
         
     except Exception as e:
         print(f"\nERRO FATAL na geração do SHAP Force Plot para a observação {observation_index}: {e}")
+
+
+# ----------------------------------------------------------------------
+# Force plot
+# ----------------------------------------------------------------------
