@@ -1,7 +1,7 @@
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
- 
+
 
 [project]
 requires-python = ">=3.9,<4.0"
@@ -26,7 +26,7 @@ dependencies = [
 
 [project.optional-dependencies]
 docs = [
-	
+
     "docutils<0.21",
     "sphinx>=5.3,<7.3",
     "sphinx_rtd_theme==2.0.0",

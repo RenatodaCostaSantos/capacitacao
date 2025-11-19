@@ -63,7 +63,7 @@ Adicione seus arquivos de dados (ex: CSVs, JSONs, etc.) nesta localização:
 <NOME_DA_PASTA_DO_PROJETO>/
 ├── .venv/ # venv criado pelo poetry
 ├── aeroespacial/
-│  
+│
 │   ├── data/
 │   │   ├── 01_raw/
 │   │   │   └── seus_dados_aqui.csv # <== Adicione aqui

@@ -25,7 +25,7 @@ It is highly recommended to use poetry to manage package conflicts. For that ope
 poetry add <NAME_OF_A_PACKAGE_IN_REQUIRENTS.TXT_FILE>
 ```
 
-Repeat the above command for all packages in the `requirements.txt` file. 
+Repeat the above command for all packages in the `requirements.txt` file.
 
 DON'T use `pip-install`. That can create package conflicts.
 
