@@ -53,7 +53,7 @@ def cria_feature_media_ponderada(df):
     l_values = np.arange(l_start, l_end + 1)
 
     # Vetor de pesos: l * (l + 1)
-    weights = l_values * (l_values + 1) / 2 * np.pi
+    weights = l_values * (l_values + 1) / (2 * np.pi)
 
     # 4. Denominador da média ponderada (soma dos pesos)
     sum_of_weights = weights.sum()
