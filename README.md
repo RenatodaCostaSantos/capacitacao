@@ -21,7 +21,7 @@ Certifique-se de ter o [Git](https://git-scm.com/) e o [Poetry](https://www.goog
 Abra o terminal e use o `git clone` para baixar o código:
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/RenatodaCostaSantos/capacitacao.git
 ```
 
 ### 2\. Entrar na Pasta do Projeto
