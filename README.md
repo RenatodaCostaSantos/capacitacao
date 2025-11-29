@@ -57,7 +57,7 @@ O argumento `--no-root` é usado pois, neste caso, a raiz do projeto principal �
 Se você planeja usar o terminal para comandos Kedro, scripts ou notebooks, ative o ambiente virtual:
 
 ```bash
-eval $(poetry env actiave)
+eval $(poetry env activate)
 ```
 
 **Nota:** Se você for usar apenas os notebooks via VS Code ou outro IDE, o Poetry pode ser configurado para usar o venv automaticamente.
