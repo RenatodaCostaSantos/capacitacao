@@ -6,7 +6,6 @@
   </figcaption>
 </figure>
 
-![WMAP (Wilkinson Microwave Anisotropy Probe) image of the CMB (Cosmic microwave background radiation) anisotropy.](images/WMAP_image_of_the_CMB_anisotropy.jpg)
 
 Este repositório contém o projeto de aprendizado de máquina, que utiliza o *framework* [Kedro](https://www.google.com/search?q=https://kedro.readthedocs.io/en/stable/).
 
