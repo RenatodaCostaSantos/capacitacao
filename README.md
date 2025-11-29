@@ -1,4 +1,5 @@
 # Em busca de ondas gravitacionais primordiais
+
 <figure>
   <img src="images/WMAP_image_of_the_CMB_anisotropy.jpg" alt="CMBR map" width="1000">
   <figcaption align="center">
@@ -6,9 +7,10 @@
   </figcaption>
 </figure>
 
+<br/><br/>
 
 
-<p> Este repositório contém o projeto de aprendizado de máquina, que utiliza o *framework* [Kedro](https://www.google.com/search?q=https://kedro.readthedocs.io/en/stable/).
+Este repositório contém o projeto de aprendizado de máquina, que utiliza o *framework* [Kedro](https://www.google.com/search?q=https://kedro.readthedocs.io/en/stable/).
 
 **Importante:** Este arquivo README fornece as instruções para clonar e configurar o ambiente de desenvolvimento usando **Poetry**. Para instruções detalhadas sobre como interagir com o projeto Kedro (comandos de *pipeline*, estrutura de pastas, etc.), consulte o `README.md` principal localizado na subpasta do Kedro.
 
