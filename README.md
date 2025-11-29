@@ -2,7 +2,7 @@
 <figure>
   <img src="images/WMAP_image_of_the_CMB_anisotropy.jpg" alt="CMBR map" width="1000">
   <figcaption align="center">
-    <b>Figure 1: WMAP (Wilkinson Microwave Anisotropy Probe) image of the CMB (Cosmic microwave background radiation) anisotropy.</b>
+    <b>Figure 1: WMAP (Wilkinson Microwave Anisotropy Probe) image of the Cosmic microwave background radiation anisotropy.</b>
   </figcaption>
 </figure>
 
