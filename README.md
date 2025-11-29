@@ -1,8 +1,10 @@
 # Em busca de ondas gravitacionais primordiais
-
-<p align="center">
-  <img width="1000" height="500" src="images/WMAP_image_of_the_CMB_anisotropy.jpg">
-</p>
+<figure>
+  <img src="images/WMAP_image_of_the_CMB_anisotropy.jpg" alt="CMBR map" width="500">
+  <figcaption align="center">
+    <b>Figure 1: WMAP (Wilkinson Microwave Anisotropy Probe) image of the CMB (Cosmic microwave background radiation) anisotropy.</b>
+  </figcaption>
+</figure>
 
 ![WMAP (Wilkinson Microwave Anisotropy Probe) image of the CMB (Cosmic microwave background radiation) anisotropy.](images/WMAP_image_of_the_CMB_anisotropy.jpg)
 
