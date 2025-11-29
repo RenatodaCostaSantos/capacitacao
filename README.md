@@ -6,7 +6,7 @@
   </figcaption>
 </figure>
 
-
+<br>
 
 
 Este repositório contém o projeto de aprendizado de máquina, que utiliza o *framework* [Kedro](https://www.google.com/search?q=https://kedro.readthedocs.io/en/stable/).
