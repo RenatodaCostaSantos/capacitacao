@@ -76,7 +76,10 @@ Adicione seus arquivos de dados (ex: CSVs, JSONs, etc.) nesta localização:
 │
 │   ├── data/
 │   │   ├── 01_raw/
-│   │   │   └── seus_dados_aqui.csv # <== Adicione aqui
+│   │   │   ├──  wider # <== Este é o nome padrão onde os dados para as features deve estar para os notebooks rodarem sem erro
+│   │   │   │    └── seus_dados_de_features # <== Adicione dados de features aqui
+│   │   │   ├──  targets # <== Pasta onde os arquivos do target devem estar para que os notebooks rodem sem erro
+│   │   │   │    └── seus_dados_do_target# <== Adicione aqui dados para o target
 │   │   └── ...
 │   ├── README.md # README principal do Kedro
 │    └── ...
