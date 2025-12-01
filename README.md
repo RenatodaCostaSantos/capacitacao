@@ -76,7 +76,7 @@ Adicione seus arquivos de dados (ex: CSVs, JSONs, etc.) nesta localização:
 │
 │   ├── data/
 │   │   ├── 01_raw/
-│   │   │   ├──  wider # <== Este é o nome padrão onde os dados para as features deve estar para os notebooks rodarem sem erro
+│   │   │   ├──  wider # <== Este é o nome padrão onde os dados para as features devem estar para os notebooks rodarem sem erro
 │   │   │   │    └── seus_dados_de_features # <== Adicione dados de features aqui
 │   │   │   ├──  targets # <== Pasta onde os arquivos do target devem estar para que os notebooks rodem sem erro
 │   │   │   │    └── seus_dados_do_target# <== Adicione aqui dados para o target
@@ -93,6 +93,10 @@ Os *notebooks* que interagem com o contexto do Kedro estão localizados dentro d
 1.  Certifique-se de que o ambiente virtual do Poetry está **ativo** (veja passo 4).
 2.  Navegue até a pasta dos notebooks: `cd aeroespacial/notebooks/`
 3.  Abra e execute os notebooks usando seu editor preferido (Jupyter Lab, VS Code, etc.). Eles deverão carregar as dependências corretamente do ambiente Poetry.
+
+### 7\. Mais informações
+
+O link para o vídeo explicando a ideia central e o que foi feito neste projeto pode ser encontrado em: https://www.youtube.com/watch?v=379riLeJHRw&t=331s
 
 -----
 
