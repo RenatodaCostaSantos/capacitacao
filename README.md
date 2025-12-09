@@ -98,7 +98,7 @@ Os *notebooks* que interagem com o contexto do Kedro estão localizados dentro d
 
 - O link para o vídeo explicando a ideia central e o que foi feito neste projeto pode ser encontrado em: https://www.youtube.com/watch?v=379riLeJHRw&t=331s
 
-- O artigo com os detalhes da teoria e resumo dos resultados obtidos neste projeto encontram-se no arquivo: [Artigo_em_busca_de_ondas_gravitacionais_primordiais](Artigo_em_busca_de_ondas_gravitacionais_primordiais.pdf)
+- O artigo com os detalhes da teoria e resumo dos resultados obtidos neste projeto encontram-se no arquivo: [Artigo_em_busca_de_ondas_gravitacionais_primordiais](artigo_em_busca_de_ondas_gravitacionais_primordiais.pdf)
 
 -----
 
